@@ -14,3 +14,8 @@ git clone https://github.com/JCO211/Pwnedhunter.git
 cd Pwnedhunter
 python3 pwned_checker.py correo@ejemplo.com
 \`\`\`
+<img width="1366" height="643" alt="Screenshot_2026-01-07_10_58_32-redacted_dot_app" src="https://github.com/user-attachments/assets/72cc12b7-8c25-4814-b6f5-da1fa0758acd" />
+
+
+ADJUNTO IMAGEN 
+
